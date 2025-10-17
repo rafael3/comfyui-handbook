@@ -3,3 +3,8 @@ The first full-length printed guide to ComfyUI—in English. 300+ pages covering
 
 
    ![Image](https://github.com/user-attachments/assets/bdb59ef5-16b6-4113-9380-2b0b51add5ee)
+
+
+
+   [![Buy on Amazon](https://img.shields.io/badge/Buy%20on-Amazon-orange?style=for-the-badge&logo=amazon)](https://a.co/d/eockxat)
+
