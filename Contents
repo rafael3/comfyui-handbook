@@ -1,0 +1,122 @@
+1. Getting Started with ComfyUI	2
+Introduction to ComfyUI	2
+Installation & Setup	6
+Terminal Basics for Beginners	7
+Installing ComfyUI	9
+Keeping ComfyUI Updated	15
+Workflow Types	24
+2. Interface & Navigation Essentials	26
+It All Started in January 2023	26
+ComfyUI Interface Overview	28
+3. ComfyUI Manager: Install & Manage Nodes	32
+What is ComfyUI Manager and Why Use It?	32
+Installing ComfyUI Manager	33
+Using ComfyUI Manager	35
+The aaaki ComfyUI Launcher	39
+4. Models, Nodes, and Prompts Fundamentals	40
+Understanding Model Types	40
+Avoiding Model Duplication	46
+Prediction Type and Image Quality	48
+Understanding Workflow Nodes	50
+Writing Effective Prompts in ComfyUI	56
+5. Parameter Control for Image Generation	58
+How Images Are Constructed in ComfyUI Workflows	58
+KSampler Node: The Core of Image Generation	59
+Inputs vs Widgets in ComfyUI Nodes	64
+Automating KSampler with Primitive Nodes	65
+Resolution, Aspect Ratio, and Scaling Best Practices	66
+6. Workflow Fundamentals 	68
+What Is a Workflow in ComfyUI?	68
+Saving and Loading Workflows (.json, .png)	69
+Finding Online ComfyUI Workflows	72
+Designing Custom Workflows (Step-by-Step)	74
+ComfyUI Workflow Techniques 	78
+7. Practical Workflows For Beginners	80
+Default Text-to-Image Workflow	80
+Image-to-Image Workflow	91
+High-Resolution Upscaling Workflows	95
+SDXL Workflows	96
+8. LoRA Models in ComfyUI	98
+LoRA & Fine-Tuned Model Workflows	98
+LoRA Model Workflow	101
+Fine-Tuning & Training LoRA Models	104
+Exploring LoRA Variants: LyCORIS, LoHa, LoKr, and LoCon​	108
+Hypernetworks	111
+9. Advanced Techniques & Customization	112
+Advanced Prompt Engineering	112
+Area Composition: What It Is and How to Use It	124
+FLUX.1 Kontext: Text-Guided Image Editing with Flow Matching	126
+10. ControlNet: Conditioning and Preprocessors	128
+Mastering ControlNet in ComfyUI	128
+Preprocessors on detail	132
+Canny Preprocessor 	132
+SoftEdge Preprocessor 	136
+Scribble Preprocessor	140
+Lineart Preprocessor	144
+OpenPose Preprocessor	148
+Depth Preprocessor 	152
+Tile Preprocessor 	146
+Inpaint Preprocessor 	160
+Other Useful Preprocessors	164
+Customizing & Managing AI Models	168
+Workflow Automation & Scripting	173
+11. Video, Animation, and Real Time	174
+Introduction to Video in ComfyUI	174
+Model Selection for Video Generation	177
+Basic Video Workflows	178
+Advanced Video Techniques	189
+FramePack: Next-Frame Video Diffusion	184
+Wan 2.2 (S2V): Sound-to-Video Generation	185
+Post-Processing & Enhancement	186
+Exporting & Optimisation	187
+ComfyStream: Real-Time AI Workflows Powered by TensorRT	188
+12. 3D Workflows: Depth, Mesh, and Model Integration	190
+What is 3D Generation in ComfyUI?	190
+Essential Nodes for 3D Generation	191
+How Does ComfyUI Handle 3D Data?	191
+Why Integrate 3D Workflows into ComfyUI?	192
+3D Workflow Types in ComfyUI	193
+Image to 3D Workflow	196
+13. Music, Speech, Sound, and Audio Reactivity	198
+What is Audio Generation in AI?	198
+Models for Audio Generation in ComfyUI	203
+Audio Workflows in ComfyUI	206
+Text-to-Audio Workflow	206
+Music in ComfyUI	210
+14. Automating ComfyUI with API & Scripting	212
+What Is an API?	212
+Setting Up ComfyUI API	216
+Automating Workflows with Python	218
+Using ComfyUI API with Web Applications	220
+Setting Up and Using the OpenAI API in ComfyUI	221
+Advanced API Techniques 	223
+Integration Overview	225
+15. Extending ComfyUI: Plugins & Custom Nodes	226
+Installing & Using Custom Nodes	226
+Managing Plugins & Extensions for Efficiency	235
+Essential ComfyUI Plugins, Node Packs and Techniques	237
+Ollama Integration: Using Local LLMs in ComfyUI	246
+Most-Used Node Packs by Profession	248
+Exporting & Sharing Workflows in ComfyUI	256
+16.Troubleshooting & Optimization	266
+Debugging & Fixing Common Errors	266
+Optimizing Performance & VRAM Usage	268
+Managing Large Models & Datasets	272
+17. Real-World Applications & Community	274
+Creative & Commercial Use Cases	274
+Community, Resources & Future Roadmap	276
+Future of ComfyUI & AI-Driven Workflows	282
+18.  Glossary, Shortcuts, and Resources 	286
+Glossary of Key Terms	286
+Shortcut Keys & Cheat Sheets	289
+Model Resolution Guidelines	290
+Sampler Comparison Table	290
+AI Model Formats 	291
+List of Compatible Models & Extensions	292
+Supported AI Models	293
+Ollama-Ready Open Source Models 	293
+Prompt Writing Patterns	294
+FAQs & Troubleshooting Guide	295
+Cloud-Based Services/Remote Inference	297
+Monetising Your Workflows	297
+Sources & Learning Resources	300
