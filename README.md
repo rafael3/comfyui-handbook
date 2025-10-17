@@ -1,5 +1,5 @@
 # ComfyUI Handbook
-The first full-length printed guide to ComfyUI—in English. 300+ pages covering workflows, SDXL, LoRA, video, 3D, models, and more. Designed for artists, designers, and professionals. Written by Rafael Hernández González. Now available worldwide on Amazon.
+The first printed ComfyUI guide in English—300+ pages of structured workflows, nodes, and model use. Up to date with the latest tools. Complements video tutorials with a clear, complete reference. For artists, designers, and creative technologists. Now on Amazon.
 
 
    ![Image](https://github.com/user-attachments/assets/bdb59ef5-16b6-4113-9380-2b0b51add5ee)
