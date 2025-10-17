@@ -8,3 +8,8 @@ The first printed ComfyUI guide in English—300+ pages of structured workflows,
 
    [![Buy on Amazon](https://img.shields.io/badge/Buy%20on-Amazon-orange?style=for-the-badge&logo=amazon)](https://a.co/d/eockxat)
 
+
+
+
+   ![Image](https://github.com/user-attachments/assets/bbc2cb0d-2705-4ba3-a988-b468336d708c)
+
