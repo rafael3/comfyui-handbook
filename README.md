@@ -1,5 +1,5 @@
 # ComfyUI Handbook
-The first printed ComfyUI guide in English—300+ pages of structured workflows, nodes, and model use. Up to date with the latest tools. Complements video tutorials with a clear, complete reference. For artists, designers, and creative technologists. Now on Amazon.
+The first printed ComfyUI guide in Englis, 300+ pages of structured workflows, nodes, and model use. Up to date with the latest tools. Complements video tutorials with a clear, complete reference. For artists, designers, and creative technologists. Now on Amazon.
 
 
 ![Image](https://github.com/user-attachments/assets/89486bf3-3f7e-44e9-85eb-ef2470e4dcd3)
