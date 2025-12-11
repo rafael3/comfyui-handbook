@@ -18,7 +18,7 @@ From beginner workflows to advanced scripting, this book is your essential resou
 [![ComfyUI Handbook – AI Workflow Design](https://github.com/user-attachments/assets/4fe8bac0-6bee-4f99-9240-d0caf8dfd10c)](https://a.co/d/eockxat)
 [![Example of professional ComfyUI workflows and node-based AI design](https://github.com/user-attachments/assets/9ca1917e-c170-48c0-b6c9-8a4104e3e88e)](https://a.co/d/eockxat)
 
-**📘 Want the full guide? [Get the ComfyUI Handbook here](https://a.co/d/eockxat)**  
+**Want the full guide? [Get the ComfyUI Handbook here](https://a.co/d/eockxat)**  
 326 tips, detailed node explanations, and real-world workflows.
 
 
